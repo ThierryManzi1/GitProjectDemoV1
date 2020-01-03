@@ -7,6 +7,7 @@ public class Test {
 			System.out.println("eat something...");
 			System.out.println("Eating...");
 			System.out.println("Eating...");
+			System.out.println("master...");
 		}else {
 			System.out.println("Do work.....");
 		}
