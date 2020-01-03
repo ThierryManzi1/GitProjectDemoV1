@@ -12,6 +12,7 @@ public class Test {
 			System.out.println("Eating...");
 		}else {
 			System.out.println("Do work.....");
+			System.out.println("Do work.....");
 		}
 
 	}
