@@ -1,0 +1,13 @@
+diff a/src/Test.java b/src/Test.java	(rejected hunks)
+@@ -7,7 +7,11 @@
+ 			System.out.println("eat something...");
+ 			System.out.println("Eating...");
+ 			System.out.println("Eating...");
++<<<<<<< HEAD
+ 			System.out.println("master...");
++=======
++			System.out.println("Eating...");
++>>>>>>> BranchX
+ 		}else {
+ 			System.out.println("Do work.....");
+ 		}
