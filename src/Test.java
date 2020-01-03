@@ -13,6 +13,7 @@ public class Test {
 		}else {
 			System.out.println("Do work.....");
 			System.out.println("Do work.....");
+			System.out.println("Do work master.....");
 		}
 
 	}
